@@ -1,0 +1,1 @@
+Revent is a logger that writes to a raven db store on the back end.  it is engineered for simplicity above all.  It is still a work in progress, and is not yet usable for production systems.
